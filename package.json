@@ -1,0 +1,20 @@
+{
+  "name": "@edawgg/mern-soc-net-challenge",
+  "version": "1.0.0",
+  "description": "Social-network platform using mern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edawgg/mern-soc-net-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edawgg/mern-soc-net-challenge/issues"
+  },
+  "homepage": "https://github.com/Edawgg/mern-soc-net-challenge#readme"
+}
